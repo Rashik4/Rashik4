@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/3ee73fc0-edd2-4a5f-88ba-2ddcabfd99de)
+
+
+
+
+
+
 - 👋 Hi, I’m @Rashik4
 - 👀 I’m interested in data analytics...
 - 🌱 I’m currently learning data analytica and data science..
