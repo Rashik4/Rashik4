@@ -6,7 +6,8 @@
 
 
 
-- 👋 Hi, I’m @Rashik4
+
+-                                                      👋 Hi, I’m @Rashik
 - 👀 I’m interested in data analytics...
 - 🌱 I’m currently learning data analytica and data science..
 - 💞️ I’m looking to collaborate on projects and studies of data science and analytics..
