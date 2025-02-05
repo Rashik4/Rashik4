@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm an aspiring **Data Analyst** passionate about turning 
 ---
 
 ## 📫 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/rashik-k-9322b1184/)
+💼 [LinkedIn](https://www.linkedin.com/in/rashik-k-9322b1184/)                                
 📧 Email: rashikyacoob@gmail.com
 
 ---
